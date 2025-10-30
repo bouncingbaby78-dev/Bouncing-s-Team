@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Hybrid Image Compression System",
+  "description": "An interactive platform to upload images, compress them using a simulated hybrid DCT and Wavelet transform algorithm, and view real-time compression statistics like file size reduction, PSNR, and MSE.",
+  "requestFramePermissions": []
+}
